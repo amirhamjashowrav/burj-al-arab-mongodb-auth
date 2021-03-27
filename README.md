@@ -1,1 +1,1 @@
-# burj-al-arab-mongodb
+# burj-mongo-auth
